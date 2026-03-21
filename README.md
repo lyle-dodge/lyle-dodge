@@ -7,6 +7,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 ## Tools
 
 - [Email Tools](https://lyle-dodge.github.io/email-tools/) - extract a list of emails from a blob of text, and then format/manipulate that list
+- [AI Tooling](ai-tooling.md) - scratchpad for ai tools 
 
 ## Artifacts
 
