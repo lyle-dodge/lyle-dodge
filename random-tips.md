@@ -15,11 +15,7 @@ Set-VMProcessor -VMName <VMName> -ExposeVirtualizationExtensions $true
 *Split a >4GB iso wim file [source](https://www.neowin.net/forum/topic/1242296-windows-server-2012-r2-dc-edition-uefi-install-nightmare/?do=findComment&comment=596707506)*
 
 ```cmd
-mkdir \iso
-xcopy cdrom:\* \iso /s /e
-dism /split-image /imagefile:c:\iso\sources\install.wim /swmfile:c:\iso\sources\install.swm /filesize:4095 /checkintegrity
-del \iso\sources\install.wim
-xcopy \iso\* thumbdrive:\ /s /e
+dism /split-image /imagefile:sources\install.wim /swmfile:sources\install.swm /filesize:4095 /checkintegrity
 ```
 
 *Bypass Windows 11 Requirements for Hyper-V lab setup*
