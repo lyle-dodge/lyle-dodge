@@ -10,6 +10,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 - [AI Scripts](ai-tooling.md) - scratchpad of links and scripts for ai tools 
 - [Bash / PowerShell Scripts](random-tips.md) - scratchpad of bash and powershell scripts
 - [Windows Installer Links](windows-tooling.md) - list of stuff for installation on Windows
+- [Random Stuff Wiki](https://github.com/lyle-dodge/lyle-dodge/wiki) - moving most of the above here over time
 
 ## Artifacts
 
