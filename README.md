@@ -7,10 +7,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 ## Tools
 
 - [Email Tools](https://lyle-dodge.github.io/email-tools/) - extract a list of emails from a blob of text, and then format/manipulate that list
-- [AI Scripts](ai-tooling.md) - scratchpad of links and scripts for ai tools 
-- [Bash / PowerShell Scripts](random-tips.md) - scratchpad of bash and powershell scripts
-- [Windows Installer Links](windows-tooling.md) - list of stuff for installation on Windows
-- [Random Stuff Wiki](https://github.com/lyle-dodge/lyle-dodge/wiki) - moving most of the above here over time
+- [Wiki](https://github.com/lyle-dodge/lyle-dodge/wiki) - wiki of scripts, links, notes, etc.
 
 ## Artifacts
 
