@@ -26,8 +26,7 @@ The easiest way to reach me is via [LinkedIn](https://linkd.in/lyledodge).
 
 - Global Engineering Lead for the Microsoft Business Group
 - Executive Sponsor for GitHub Partnership
-- North American Applications + Infrastructure Functional Lead for Microsoft Business Group
-- Developing capability in global engineering teams around the GitHub plaform in partnership with GitHub
+- GTM Lead for Microsoft Forward Deployed Engineering for North American Microsoft Business Group
 
 2024-CURRENT - *Logistics Client*
 
